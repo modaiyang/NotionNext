@@ -2,7 +2,7 @@ const CONFIG = {
   HEO_HOME_POST_TWO_COLS: true, // 首页博客两列显示，若为false则只显示一列
   HEO_LOADING_COVER: true, // 页面加载的遮罩动画
 
-  HEO_HOME_BANNER_ENABLE: true,
+  HEO_HOME_BANNER_ENABLE: false,
 
   HEO_SITE_CREATE_TIME: '2023-09-06', // 建站日期，用于计算网站运行的第几天
 
@@ -47,7 +47,7 @@ const CONFIG = {
   HEO_INFO_CARD_ICON1: 'fab fa-linkedin',
   HEO_INFO_CARD_URL2: 'https://github.com/tangly1024',
   HEO_INFO_CARD_ICON2: 'fab fa-github',
-  HEO_INFO_CARD_URL3: 'mail:ttsunny@126.com',
+  HEO_INFO_CARD_URL3: 'mailto:ttsunny@126.com',
   HEO_INFO_CARD_TEXT3: '邮件联系',
 
   // 用户技能图标
