@@ -12,7 +12,6 @@ class MyDocument extends Document {
     return (
       <Html lang={BLOG.LANG}>
         <Head>
-              <meta name="baidu-site-verification" content="codeva-uJjt8I0NiP">
           {/* 预加载字体 */}
           {BLOG.FONT_AWESOME && (
             <>
