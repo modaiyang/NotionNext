@@ -186,5 +186,7 @@ const Header = props => {
     </div>
   )
 }
-
+{siteConfig('SEO_BAIDU_SITE_VERIFICATION') && (
+  <meta name="baidu-site-verification" content="codeva-8g3IuTvZQE" />
+)}
 export default Header
